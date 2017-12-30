@@ -5,8 +5,8 @@
 # catalog-license lppl1.3
 # catalog-version 1.0
 Name:		texlive-eledform
-Version:	1.0
-Release:	10
+Version:	1.1a
+Release:	1
 Summary:	Define textual variants
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/eledform
