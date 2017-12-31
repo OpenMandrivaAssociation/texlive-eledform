@@ -1,9 +1,3 @@
-# revision 27922
-# category Package
-# catalog-ctan /macros/latex/contrib/eledform
-# catalog-date 2012-10-08 11:45:11 +0200
-# catalog-license lppl1.3
-# catalog-version 1.0
 Name:		texlive-eledform
 Version:	1.1a
 Release:	1
@@ -33,16 +27,10 @@ critical editions typeset using eledmac.
 
 #-----------------------------------------------------------------------
 %files
-%{_texmfdistdir}/tex/latex/eledform/eledform.sty
-%doc %{_texmfdistdir}/doc/latex/eledform/README.md
-%doc %{_texmfdistdir}/doc/latex/eledform/eledform.pdf
-%doc %{_texmfdistdir}/doc/latex/eledform/example.pdf
-%doc %{_texmfdistdir}/doc/latex/eledform/example.tex
-%doc %{_texmfdistdir}/doc/latex/eledform/include/stemma.tex
-%doc %{_texmfdistdir}/doc/latex/eledform/makefile
+%{_texmfdistdir}/tex/latex/eledform
+%doc %{_texmfdistdir}/doc/latex/eledform
 #- source
-%doc %{_texmfdistdir}/source/latex/eledform/eledform.dtx
-%doc %{_texmfdistdir}/source/latex/eledform/eledform.ins
+%doc %{_texmfdistdir}/source/latex/eledform
 
 #-----------------------------------------------------------------------
 %prep
