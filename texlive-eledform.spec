@@ -1,6 +1,6 @@
 Name:		texlive-eledform
 Version:	38114
-Release:	1
+Release:	2
 Summary:	Define textual variants
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/eledform
